@@ -8,8 +8,9 @@ Analyze DNS and ICMP traffic using tcpdump to diagnose a network protocol issue 
 - Analysis shows UDP requests to DNS server return ICMP error: "udp port 53 unreachable."
 
 ## Tcpdump Logs
-![Tcpdump Logs](URL_OF_YOUR_IMAGE)
+![Tcpdump Logs](https://github.com/DERMOUCHERYAD/network-traffic-analysis/blob/main/image.png)
 
 ## Files
 - `Cybersecurity incident report network traffic analysis DERMOUCHE.pdf`
 - `The Exemplar Explained - Cybersecurity Incident Report_ Network Traffic Analysis.pdf`
+- `image.png`
